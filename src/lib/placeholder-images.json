@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "soda-blue",
+      "description": "Ice-cold sparkling blue soda with lemon slice",
+      "imageUrl": "https://images.unsplash.com/photo-1617641274549-c6da1554012a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzcGFya2xpbmclMjBzb2RhfGVufDB8fHx8MTc2OTg0NDg3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sparkling soda"
+    },
+    {
+      "id": "juice-orange",
+      "description": "Freshly squeezed orange juice in a tall glass with ice",
+      "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmcmVzaCUyMGp1aWNlfGVufDB8fHx8MTc2OTg0NDg3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh juice"
+    },
+    {
+      "id": "energy-vibrant",
+      "description": "Neon green energy drink with water droplets",
+      "imageUrl": "https://images.unsplash.com/photo-1629186235045-80d4147d90dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxlbmVyZ3klMjBkcmlua3xlbnwwfHx8fDE3Njk3OTczODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "energy drink"
+    },
+    {
+      "id": "mocktail-fancy",
+      "description": "Tropical fruit mocktail with umbrella and mint garnish",
+      "imageUrl": "https://images.unsplash.com/photo-1742972445729-cf43d145c263?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmcnVpdCUyMG1vY2t0YWlsfGVufDB8fHx8MTc2OTg0NDg3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit mocktail"
+    },
+    {
+      "id": "hero-bg",
+      "description": "Vibrant summer beach scene with cold drinks",
+      "imageUrl": "https://images.unsplash.com/photo-1692047013388-3182e2c5c77e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdW1tZXIlMjByZWZyZXNobWVudHxlbnwwfHx8fDE3Njk4NDQ4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "summer refreshment"
+    }
+  ]
 }
